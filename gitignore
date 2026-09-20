@@ -1,0 +1,33 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.egg-info/
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Colab / Jupyter runtime
+.ipynb_checkpoints
+*.log
+
+# Environment variables
+.env
+
+# Large / temporary model artifacts (uncomment if you don't want to push them)
+# diabetes_model.pkl
+# scaler.pkl
