@@ -150,11 +150,9 @@ jupyter notebook Diabetes_Prediction_Model.ipynb
 ## 🖊️ Author
 
 **Farjana Ferdausi**
-*AI/ML Engineering & Data Science*
 
-Fellow — Google Cloud Gen AI Academy APAC Edition (Cohort 3)
+*AI/ML Engineering & Data Science* Fellow — Google Cloud Gen AI Academy APAC Edition (Cohort 3)
 Agentic AI · RAG · Gemini · ADK · BigQuery MCP · Cloud Run
-
 Former HR Professional (14+ years) at Radisson Blu Dhaka Water Garden, Bangladesh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farjana--ferdausi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farjana-ferdausi/)
